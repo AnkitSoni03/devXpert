@@ -46,3 +46,6 @@ Why Use useLoaderData()?
 ✔ Ensures the component has data ready at the time of rendering
 ✔ Improves performance and SEO (useful for SSR in Remix and Next.js)
 
+
+end..
+
