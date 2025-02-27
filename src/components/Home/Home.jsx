@@ -110,7 +110,7 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full">
-                    <img className="w-120 object-cover" src="/public/home7.jpg" alt="Developer coding" />
+                    <img className="w-120 object-cover" src="/home7.jpg" alt="Developer coding" />
                 </div>
             </aside>
 
@@ -159,7 +159,7 @@ export default function Home() {
             </div>
 
             <div className="grid place-items-center sm:mt-20">
-                <img className="sm:w-200 rounded-lg shadow-2xl" src="/public/home8.jpg" alt="Developers collaborating" />
+                <img className="sm:w-200 rounded-lg shadow-2xl" src="/home8.jpg" alt="Developers collaborating" />
             </div>
 
             {/* Call to Action */}
@@ -179,7 +179,7 @@ export default function Home() {
             <div className="bg-gray-50 py-16 my-16 border-t border-b border-gray-200">
                 <div className="max-w-4xl mx-auto px-4">
                     <div className="flex flex-col items-center">
-                        <img className="w-24 h-24 rounded-full object-cover mb-6" src="/public/home10.jpg" alt="Testimonial" />
+                        <img className="w-24 h-24 rounded-full object-cover mb-6" src="/home10.jpg" alt="Testimonial" />
                         <p className="text-lg text-gray-700 text-center italic mb-6">"This platform completely transformed my development skills. The structured courses and supportive community helped me land my dream job as a full-stack developer."</p>
                         <p className="font-bold">- Alex Chen, Software Engineer</p>
                     </div>
